@@ -1,0 +1,37 @@
+.input-group {
+    margin: 2em auto;
+    max-width: 500px;
+}
+.container {
+    text-align: center;
+    
+}
+.temp {
+    font-size: 5em;
+}
+.description {
+    font-size: 3em;
+}
+.city-name {
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.weather-info {
+    display: none;
+}
+#icon {
+    font-size: 4em;
+}
+body{
+	background-image:url('images/road.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    position:center;
+     background-attachment: fixed;
+     display: flex;
+    color:white;
+    height:100vh;
+
+
+   
+}
